@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Elements
-image: assets/images/pic01.jpg
+title: About Us
+image: assets/images/ChinmayaLogo.jpg
 nav-menu: true
 ---
 
