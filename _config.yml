@@ -1,8 +1,8 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+title: Chinmaya Mission Seacoast NH
+subtitle: To give maximum happiness to maximum people for maximum time
+email: seacoastnh.chinmaya@gmail.com
+description: Website of Chinmaya Mission Seacoast in NH
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
