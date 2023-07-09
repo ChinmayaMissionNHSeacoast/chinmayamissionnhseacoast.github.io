@@ -8,11 +8,11 @@ url: https://chinmayamissionnhseacoast.github.io
 root: https://chinmayamissionnhseacoast.github.io
 author:
 street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
+city: Portsmouth
+state: NH
+zip_code: 03801
 country: United States of America
-phone: (716) 555-5555
+phone: (999) 999-9999
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -23,14 +23,7 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/andrewbanchich
-  GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
-  Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
-  Facebook:
-  Slack:
+  Facebook: https://www.facebook.com/chinmayamissiondovernh
 
 # build settings
 markdown: kramdown
